@@ -254,7 +254,7 @@ case "$OPTION" in
         GITHUB_TOKEN="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"
 
         # Clone repositori menggunakan token
-        REPO_URL="https://${GITHUB_TOKEN}@github.com/ardxryz/installer-premium.git"
+        REPO_URL="https://github.com/fan-x-1337/-Theme-Pterodactyl-Installer.git"
         TEMP_DIR="installer-premium"
 
         # Mengkloning repositori
